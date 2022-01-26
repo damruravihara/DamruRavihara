@@ -11,7 +11,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/damru ravihara" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="damru ravihara" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/damru-ravihara-a068bb221" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="damru-ravihara-a068bb221" height="30" width="40" /></a>
 <a href="https://fb.com/padfoot001" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="padfoot001" height="30" width="40" /></a>
 <a href="https://instagram.com/_pad_foot" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="_pad_foot" height="30" width="40" /></a>
 </p>
