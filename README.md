@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Damru Ravihara</h1>
-<h3 align="center">Student Id: 20214302 Git Username: damruravihara</h3>
+<h3 align="center">Student Id: IT20214302 Git Username: damruravihara</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=damruravihara&label=Profile%20views&color=0e75b6&style=flat" alt="damruravihara" /> </p>
 
